@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+.background-image {
+  background-image:url('https://www.thedodo.com/daily-dodo/rescue-puppies-from-same-litter-grow-up-to-look-so-different');
+  background-size: cover;
+  background-position: center;
+}
